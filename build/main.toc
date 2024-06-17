@@ -1,0 +1,38 @@
+\contentsline {section}{\numberline {1}El eco de los antiguos}{3}{section.1}%
+\contentsline {subsection}{\numberline {1.1}Mercado de Karnak - Desierto de Amon-Ra}{3}{subsection.1.1}%
+\contentsline {paragraph}{\textit {En las arenas doradas del desierto de Amon-Ra, donde el sol quema sin piedad, y las noches traen promesas de misterio, un joven mercenario llamado Setekh buscaba su próximo bocado No era un ladrón por elección, sino por necesidad, y en las sombras del mercado de Karnak, su destino se estaba tejiendo en silencio}\\}{3}{paragraph*.1}%
+\contentsline {section}{\numberline {2}Text}{8}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Specifications}{8}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Text}{8}{subsection.2.2}%
+\contentsline {subsubsection}{\numberline {2.2.1}Normal Text}{8}{subsubsection.2.2.1}%
+\contentsline {subsubsection}{\numberline {2.2.2}Bold Text}{8}{subsubsection.2.2.2}%
+\contentsline {subsubsection}{\numberline {2.2.3}Italic Text}{9}{subsubsection.2.2.3}%
+\contentsline {subsubsection}{\numberline {2.2.4}Bold and Italic Text}{9}{subsubsection.2.2.4}%
+\contentsline {subsubsection}{\numberline {2.2.5}Two column Text}{9}{subsubsection.2.2.5}%
+\contentsline {subsubsection}{\numberline {2.2.6}Itemize}{10}{subsubsection.2.2.6}%
+\contentsline {subsection}{\numberline {2.3}Hyperref}{10}{subsection.2.3}%
+\contentsline {subsection}{\numberline {2.4}Biblatex}{10}{subsection.2.4}%
+\contentsline {subsubsection}{\numberline {2.4.1}Cite}{10}{subsubsection.2.4.1}%
+\contentsline {subsection}{\numberline {2.5}Footer}{11}{subsection.2.5}%
+\contentsline {section}{\numberline {3}Blocks}{12}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Quote blocks}{12}{subsection.3.1}%
+\contentsline {subsubsection}{\numberline {3.1.1}Quote block 1}{12}{subsubsection.3.1.1}%
+\contentsline {subsubsection}{\numberline {3.1.2}Quote block 2}{12}{subsubsection.3.1.2}%
+\contentsline {subsubsection}{\numberline {3.1.3}Quote block 3}{13}{subsubsection.3.1.3}%
+\contentsline {subsubsection}{\numberline {3.1.4}Quote block 4}{13}{subsubsection.3.1.4}%
+\contentsline {subsubsection}{\numberline {3.1.5}Quote block 5}{14}{subsubsection.3.1.5}%
+\contentsline {subsection}{\numberline {3.2}Coding Blocks}{14}{subsection.3.2}%
+\contentsline {subsubsection}{\numberline {3.2.1}Coding Block 1}{14}{subsubsection.3.2.1}%
+\contentsline {subsubsection}{\numberline {3.2.2}Coding Block 2}{14}{subsubsection.3.2.2}%
+\contentsline {section}{\numberline {4}TIkz}{16}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Example - Bucket S3}{16}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Example - VM and container comparison}{16}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.3}Example - Math geometry}{17}{subsection.4.3}%
+\contentsline {section}{\numberline {5}Tabular}{19}{section.5}%
+\contentsline {subsection}{\numberline {5.1}Example - Tabular}{19}{subsection.5.1}%
+\contentsline {section}{\numberline {6}Graphics}{20}{section.6}%
+\contentsline {subsection}{\numberline {6.1}Example - Nier image wrap}{20}{subsection.6.1}%
+\contentsline {section}{\numberline {7}Design}{21}{section.7}%
+\contentsline {subsection}{\numberline {7.1}Symbols}{21}{subsection.7.1}%
+\contentsline {subsection}{\numberline {7.2}Colors}{21}{subsection.7.2}%
+\contentsfinish 
